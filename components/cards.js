@@ -61,6 +61,9 @@ function cards(){
       <h2>{`${restaurantList[4].image}`}</h2>
       <p>{`${restaurantList[4].location}`}</p>
         <p>{`${restaurantList[4].cost}`}</p>
+        <p>{`${restaurantList[4].attreactions}`}</p>
+        <p>{`${restaurantList[4].information}`}</p>
+         
          
             </div>
 
@@ -70,6 +73,9 @@ function cards(){
       <h2>{`${restaurantList[5].image}`}</h2>
       <p>{`${restaurantList[5].location}`}</p>
         <p>{`${restaurantList[5].cost}`}</p>
+        <p>{`${restaurantList[5].attreactions}`}</p>
+        <p>{`${restaurantList[5].information}`}</p>
+         
          
             </div>
 
@@ -80,6 +86,9 @@ function cards(){
       <h2>{`${restaurantList[6].image}`}</h2>
       <p>{`${restaurantList[6].location}`}</p>
         <p>{`${restaurantList[6].cost}`}</p>
+        <p>{`${restaurantList[6].attreactions}`}</p>
+        <p>{`${restaurantList[6].information}`}</p>
+         
          
             </div>
 
@@ -89,6 +98,9 @@ function cards(){
       <h2>{`${restaurantList[7].image}`}</h2>
       <p>{`${restaurantList[7].location}`}</p>
         <p>{`${restaurantList[7].cost}`}</p>
+        <p>{`${restaurantList[7].attreactions}`}</p>
+        <p>{`${restaurantList[7].information}`}</p>
+         
          
             </div>
 
@@ -98,6 +110,9 @@ function cards(){
       <h2>{`${restaurantList[8].image}`}</h2>
       <p>{`${restaurantList[8].location}`}</p>
         <p>{`${restaurantList[8].cost}`}</p>
+        <p>{`${restaurantList[8].attreactions}`}</p>
+        <p>{`${restaurantList[8].information}`}</p>
+         
          
             </div>
 
@@ -107,6 +122,9 @@ function cards(){
       <h2>{`${restaurantList[9].image}`}</h2>
       <p>{`${restaurantList[9].location}`}</p>
         <p>{`${restaurantList[9].cost}`}</p>
+        <p>{`${restaurantList[9].attreactions}`}</p>
+        <p>{`${restaurantList[9].information}`}</p>
+         
          
             </div>
 
@@ -116,6 +134,9 @@ function cards(){
       <h2>{`${restaurantList[10].image}`}</h2>
       <p>{`${restaurantList[10].location}`}</p>
         <p>{`${restaurantList[10].cost}`}</p>
+        <p>{`${restaurantList[10].attreactions}`}</p>
+        <p>{`${restaurantList[10].information}`}</p>
+         
          
             </div>
             
@@ -123,6 +144,9 @@ function cards(){
       <h2>{`${restaurantList[11].image}`}</h2>
       <p>{`${restaurantList[11].location}`}</p>
         <p>{`${restaurantList[11].cost}`}</p>
+        <p>{`${restaurantList[11].attreactions}`}</p>
+        <p>{`${restaurantList[11].information}`}</p>
+         
          
             </div>
             
