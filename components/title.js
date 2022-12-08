@@ -6,7 +6,7 @@ import Navbar from './Navbar';
 const title = () => {
   return (
     <div>
-      <h2>search your dream vacation!</h2>
+      <h2>Look for your dream vaccation</h2>
       <Navbar />
     </div>
   );
